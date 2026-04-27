@@ -6,8 +6,8 @@
 
 **后端开发一枚**，热爱技术，专注于 Java/Spring 生态
 
-邮箱: your.email@example.com &nbsp;&nbsp;|&nbsp;&nbsp;  
-博客: ([https://yourblog.com](https://014-code.github.io/014.github.io/))
+邮箱: 2402143478@qq.com@example.com &nbsp;&nbsp;|&nbsp;&nbsp;  
+博客: ([[https://yourblog.com](https://014-code.github.io/014.github.io/)](https://014-code.github.io/014.github.io/))
 
 ## 🛠 技术栈
 
