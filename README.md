@@ -58,18 +58,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=014-code&repo=ai-code&theme=radical&hide_border=false&show_owner=true)](https://github.com/014-code/ai-code)
 
-## 📝 最新博客
-
-<!-- BLOG-POST-LIST:START -->
-- [博客标题1](博客链接1)
-- [博客标题2](博客链接2)
-- [博客标题3](博客链接3)
-<!-- BLOG-POST-LIST:END -->
-
-## &#9888; 访客统计
-
-<img src="https://profile-counter.glitch.me/014-code/count.svg" />
-
 ---
 
 <p align="center">
