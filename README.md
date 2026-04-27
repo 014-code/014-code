@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=你的名字&fontSize=90&animation=fadeIn&fontAlignY=38&desc=一句个性签名&descAlignY=55&descAlign=60" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=014code&fontSize=90&animation=fadeIn&fontAlignY=38&desc=一句个性签名&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
 ## 👋 你好，我是014code！
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 ### 前端
