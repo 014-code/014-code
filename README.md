@@ -56,7 +56,7 @@
 
 ## 🔥 热衷项目
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目名&theme=radical&hide_border=false&show_owner=true)](https://github.com/你的用户名/项目名)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=014-code&repo=ai-code&theme=radical&hide_border=false&show_owner=true)](https://github.com/014-code/ai-code)
 
 ## 📝 最新博客
 
@@ -68,7 +68,7 @@
 
 ## &#9888; 访客统计
 
-<img src="https://profile-counter.glitch.me/你的用户名/count.svg" />
+<img src="https://profile-counter.glitch.me/014-code/count.svg" />
 
 ---
 
