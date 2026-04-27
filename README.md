@@ -57,9 +57,3 @@
 ## 🔥 热衷项目
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=014-code&repo=ai-code&theme=radical&hide_border=false&show_owner=true)](https://github.com/014-code/ai-code)
-
----
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=d91c25&height=30&section=footer&text=Thank%20You&fontSize=16&fontAlignY=20" width="30%" />
-</p>
