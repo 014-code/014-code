@@ -40,13 +40,6 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </div>
 
-## 📊 GitHub 统计
-
-<p align="left">
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=014-code&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=014-code&theme=radical&hide_border=false&layout=compact" />
-</p>
-
 ## 👨‍💻 关于我
 
 - 🔭 曾负责福清市天宝社区开发、福建某大学AI驱动职业成长平台开发
