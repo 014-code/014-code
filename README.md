@@ -46,7 +46,3 @@
 - 🌱 目前正在学习 Go 语言 / 分布式系统
 - ⚡ 喜欢折腾各种新技术
 - 📝 写写技术博客，记录学习心得
-
-## 🔥 热衷项目
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=014-code&repo=ai-code&theme=radical&hide_border=false&show_owner=true)](https://github.com/014-code/ai-code)
