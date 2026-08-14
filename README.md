@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm 014code
 
-**Java Backend Developer | Open Source Contributor | AI Agent Developer**
+**Backend Developer | Open Source Contributor | AI Agent Developer**
 
 <p>
 <a href="https://github.com/014-code">
@@ -22,7 +22,7 @@
 
 # 🚀 About Me
 
-- 💻 Java 后端开发工程师
+- 💻 Agent 全栈开发工程师
 - 🌱 持续学习 Kotlin、Go、AI Agent、LLM 应用开发
 - ❤️ 热爱开源，积极参与 Apache、Spring 等社区贡献
 - 🤖 目前专注 Agent 智能体开发
@@ -35,8 +35,8 @@
 
 | 时间 | 公司 | 职位 |
 |------|------|------|
-| **2026.07 - Present** | 深圳市东信时代信息技术有限公司 | Agent 智能体开发 |
-| **2026.03 - 2026.06** | 用友网络股份有限公司 | Java 后端开发 |
+| **2026.07 - Present** | 深圳市东信时代信息技术有限公司 | Agent 开发 |
+| **2026.03 - 2026.06** | 用友网络股份有限公司 | 后端开发 |
 | **2025.07 - 2026.03** | 福州市榕智信息科技有限公司 | 全栈开发 |
 
 ---
