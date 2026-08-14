@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=014code&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor%20%7C%20Java%20Backend%20Developer%20%7C%20AI%20Agent%20Developer&descAlignY=55&descAlign=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=014code&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor%20%7C%20%20Backend%20Developer%20%7C%20AI%20Agent%20Developer&descAlignY=55&descAlign=60" width="100%" />
 
 # 👋 Hi, I'm 014code
 
