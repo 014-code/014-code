@@ -35,8 +35,6 @@
 
 # 🛠 Tech Stack
 
-## ☕ Backend
-
 <p>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -64,11 +62,6 @@
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 
 </p>
-
----
-
-## 🤖 AI
-
 <p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -80,11 +73,6 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
 </p>
-
----
-
-## 🌐 Frontend
-
 <p>
 
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
@@ -98,11 +86,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
 </p>
-
----
-
-## 🔧 Tools
-
 <p>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -129,17 +112,6 @@
 
 </div>
 
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=014-code&theme=tokyo-night"/>
-
-</div>
-
----
 
 # ❤️ Open Source
 
