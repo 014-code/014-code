@@ -45,11 +45,7 @@
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/GORM-00ADD8?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
@@ -66,9 +62,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Dify-00B96B?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
@@ -83,14 +77,10 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-
 </p>
 <p>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
