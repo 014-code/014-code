@@ -64,7 +64,7 @@
 
 <img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=springai&logoColor=white"/>
 
 </p>
 <p>
