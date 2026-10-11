@@ -22,10 +22,10 @@
 
 # 🚀 About Me
 
-- 💻 Agent 全栈开发工程师
-- 🌱 持续学习 Kotlin、Go、AI Agent、LLM 应用开发
-- ❤️ 热爱开源，积极参与 Apache、Spring 等社区贡献
-- 🤖 目前专注 Agent 智能体开发
+- 💻 Agent Full-Stack Developer
+- 🌱 Continuously learning Kotlin, Go, AI Agents, and LLM Application Development
+- ❤️ Passionate about Open Source and actively contributing to projects across various ecosystems
+- 🤖 Currently focused on AI Agent Engineering
 - 📫 Email：2402143478@qq.com
 - 🌐 Blog：https://014-code.github.io/014.github.io/
 
